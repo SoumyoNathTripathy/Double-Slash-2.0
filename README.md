@@ -1,8 +1,9 @@
-# Double-Slash-2.0- Team "Crypto_Coders"
+<p align="center">
+<h1 align="center">Double-Slash-2.0-Team "Crypto_Coders"</h1>
 <p align="center">
  
 
-<h1 align="center">Traffic Management System and Adaptive Traffic Signal Timer</h1>
+<h3 align="center">Traffic Management System and Adaptive Traffic Signal Timer</h3>
 
 <div align="center">
 
