@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Double-Slash-2.0-Team "Crypto_Coders"</h1>
+<h1 align="center">Double-Slash-2.0-Team Crypto_Coders</h1>
 <p align="center">
  
 
