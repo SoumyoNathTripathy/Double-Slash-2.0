@@ -38,9 +38,8 @@ This project can be broken down into 3 modules:
 
 * `Vehicle Detection`
 
-<p align="center">
- <img height=400px src="./vehicle-detection.png" alt="Vehicle Detection">
-</p>
+![WhatsApp Image 2023-01-22 at 1 27 03 PM](https://user-images.githubusercontent.com/85414445/213906121-045f9fdc-d15e-4fbc-9eea-d7ba06817b2a.jpeg)
+
 
 <br> 
 
