@@ -1,7 +1,6 @@
-# Double-Slash-2.0
+# Double-Slash-2.0- Team "Crypto_Coders"
 <p align="center">
- <img height=200px src="./traffic-signal.jpg" alt="Traffic Signal Timer">
-</p>
+ 
 
 <h1 align="center">Traffic Management System and Adaptive Traffic Signal Timer</h1>
 
@@ -14,7 +13,7 @@
 </div>
 
 -----------------------------------------
-### Inspiration
+### Introduction
 
 * With the growing number of people and cars in cities, traffic congestion is one of the most pressing problems. In addition to adding to driver stress and delay, traffic bottlenecks also result in higher fuel usage and air pollution.
 
